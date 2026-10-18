@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" fill="none">
+  <path d="M45 143C28 98 59 51 109 51C152 51 183 25 227 38C272 51 318 90 312 136C306 181 273 195 221 191H106C70 191 53 167 45 143Z" fill="#e7eef4"/>
+  <circle cx="62" cy="56" r="5" fill="#ffb511"/><circle cx="304" cy="157" r="4" fill="#9cb7cb"/>
+  <path d="M44 190H315" stroke="#b5c9d8" stroke-width="3" stroke-linecap="round"/>
+  <g stroke="#0d2237" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M265 42L290 47L264 170L239 164L265 42Z" fill="#ffb511"/>
+    <path d="M263 54L275 57M260 67L269 69M257 81L269 84M254 95L263 97M251 109L263 112M248 123L257 125M245 137L257 140" stroke-width="2"/>
+    <path d="M72 62H237V177H72V62Z" fill="#fff"/>
+    <path d="M72 62C57 62 57 83 72 83H80V171C78 184 57 184 58 171V74C58 68 64 62 72 62Z" fill="#b5c9d8"/>
+    <path d="M72 177H236"/>
+    <path d="M97 88H164V144H97V88ZM164 106H213V144H164" stroke="#6e94b2"/>
+    <path d="M123 88V112H97M123 112H143M147 112H164M164 124H184V144M199 125H213M123 144V128" stroke="#6e94b2"/>
+    <path d="M123 128C132 128 139 135 139 144M184 127C192 127 199 134 199 144" stroke="#9cb7cb" stroke-width="2"/>
+    <path d="M96 153H213M97 150V156M213 150V156M219 90V142M216 90H222M216 142H222" stroke="#9cb7cb" stroke-width="2"/>
+    <path d="M97 74H139M149 74H164" stroke="#9cb7cb"/>
+    <path d="M100 165H136M197 74H212" stroke="#6e94b2" stroke-width="2"/>
+    <path d="M190 166C190 144 203 126 222 123V117C222 113 225 110 229 110H239C243 110 246 113 246 117V123C267 128 281 145 281 166" fill="#ffb511"/>
+    <path d="M226 119V154M242 119V154M207 133L210 156M261 133L258 156"/>
+    <path d="M191 164H282C287 164 290 168 290 173C290 177 286 180 282 180H191C186 180 183 177 183 173C183 168 186 164 191 164Z" fill="#ffb511"/>
+    <path d="M110 191L149 159L157 168L118 200L110 191Z" fill="#6e94b2"/>
+    <path d="M110 191L105 202L118 200L110 191Z" fill="#f6d9b0"/>
+    <path d="M148 160L154 155C158 152 165 160 161 164L156 169" fill="#ffb511"/>
+  </g>
+</svg>
